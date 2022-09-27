@@ -1,0 +1,6 @@
+1.pandas
+2.sklearn
+3.streamlit
+4.pickle
+5.matplotlib
+6.seaborn
